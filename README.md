@@ -57,8 +57,8 @@ The "Daily Expenses - Data Analysis" project is a command-line interface (CLI) t
 
 ## Future Enhancements 
 
-Updating records in the CSV file.
-Summing and averaging data based on conditions.
-Advanced data manipulation and visualization features.
-Incorporating machine learning algorithms.
-Developing a graphical user interface (GUI).
+1. Updating records in the CSV file.
+2. Summing and averaging data based on conditions.
+3. Advanced data manipulation and visualization features.
+4. Incorporating machine learning algorithms.
+5. Developing a graphical user interface (GUI).
